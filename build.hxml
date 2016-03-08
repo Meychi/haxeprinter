@@ -6,7 +6,7 @@
 
 --each
 
---macro haxeprinter.Macro.generateConfigTemplate()
+#--macro haxeprinter.Macro.generateConfigTemplate()
 -main haxeprinter.Main
 -neko bin/format.n
 
